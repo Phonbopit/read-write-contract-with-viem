@@ -1,6 +1,6 @@
 # hello-viem
 
-ตัวอย่าง Read/Write Contract ด้วย Viem (อ่านบทความ](https://www.devahoy.com/blog/2025/read-write-contract-with-viem
+ตัวอย่าง Read/Write Contract ด้วย Viem (อ่านบทความ](https://www.devahoy.com/blog/2025/read-write-contract-with-viem)
 
 To install dependencies:
 
